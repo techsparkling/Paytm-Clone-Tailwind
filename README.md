@@ -3,7 +3,7 @@
 Build time- 7.5hrs
 
 Built with Tailwind CSS and HTML and a tiny bit of JS
-
+Deployed link: [https://paytm-clone-vish.netlify.app/](Paytm-clone-vish)
 # Landing:
 ![home](https://user-images.githubusercontent.com/43082361/184542534-6b1dfdd0-b82a-4d26-b539-b2bbcd3d848f.png)
 
